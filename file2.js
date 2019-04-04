@@ -6,5 +6,5 @@ var user = {
 }
 
 for (key in user){
-    ocnsole.log(key);
+    console.log(key);
 }
